@@ -1,36 +1,36 @@
-# 📦 PinjamBarang
+# 🥘 Resep Nusantara
 
-**PinjamBarang** adalah aplikasi Android yang dirancang untuk membantu pengguna dalam mengelola peminjaman dan pengembalian barang secara praktis. Aplikasi ini dibangun menggunakan **Kotlin**, **Jetpack Compose**, dan **Room**, dengan arsitektur modern dan tampilan profesional.
+Aplikasi Android untuk menampilkan dan mengelola resep-resep masakan khas Indonesia 🇮🇩.
 
----
-
-## ✨ Fitur Utama
-
-- 🔐 Login dan otentikasi pengguna
-- 📋 Daftar barang yang tersedia untuk dipinjam
-- ➕ Tambah, edit, dan hapus data barang
-- ⏳ Fitur peminjaman dan pengembalian barang
-- 📅 Riwayat transaksi peminjaman
-- 🧾 Detail informasi barang
-- 📱 Desain modern dengan Material 3 & Jetpack Compose
+### ✨ Fitur Utama
+- 🔍 Cari resep berdasarkan nama
+- 📋 Lihat detail bahan dan langkah memasak
+- 💾 Simpan resep favorit
+- 🎨 Desain dengan Jetpack Compose
+- 💾 Penyimpanan lokal menggunakan Room
 
 ---
 
-## 🛠 Teknologi yang Digunakan
-
+### 📱 Teknologi yang Digunakan
 - Kotlin
 - Jetpack Compose
 - Room Database
 - ViewModel & LiveData
-- Material 3 (M3)
-- Navigation Compose
-- Gradle Kotlin DSL (`build.gradle.kts`)
-- Android SDK 21+ (Minimum), SDK 34+ (Target)
+- Gradle
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
+### 📸 Tampilan
+<img width="449" height="807" alt="Screenshot 2025-07-26 180908" src="https://github.com/user-attachments/assets/852bcb8a-e787-42e3-9d46-b3e4d20c6607" />
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/korneliakidi/PinjamBarang.git
+
+---
+
+### 🙌 Kontributor
+**Aditya Admaja**  
+[GitHub: adhitya0706](https://github.com/adhitya0706)
+
+---
+
+### 📄 License
+Project ini bersifat open-source dan bebas digunakan untuk pembelajaran.
